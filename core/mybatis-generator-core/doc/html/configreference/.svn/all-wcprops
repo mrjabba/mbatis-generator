@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3607/sub-projects/generator/trunk/core/mybatis-generator-core/doc/html/configreference
+END
+generatorConfiguration.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/2404/sub-projects/generator/trunk/core/mybatis-generator-core/doc/html/configreference/generatorConfiguration.html
+END
+jdbcConnection.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/2404/sub-projects/generator/trunk/core/mybatis-generator-core/doc/html/configreference/jdbcConnection.html
+END
+context.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/3535/sub-projects/generator/trunk/core/mybatis-generator-core/doc/html/configreference/context.html
+END
+property.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2404/sub-projects/generator/trunk/core/mybatis-generator-core/doc/html/configreference/property.html
+END
+xmlconfig.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2404/sub-projects/generator/trunk/core/mybatis-generator-core/doc/html/configreference/xmlconfig.html
+END
+javaClientGenerator.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/3607/sub-projects/generator/trunk/core/mybatis-generator-core/doc/html/configreference/javaClientGenerator.html
+END
+table.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/3373/sub-projects/generator/trunk/core/mybatis-generator-core/doc/html/configreference/table.html
+END
+properties.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2404/sub-projects/generator/trunk/core/mybatis-generator-core/doc/html/configreference/properties.html
+END
+columnOverride.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/2404/sub-projects/generator/trunk/core/mybatis-generator-core/doc/html/configreference/columnOverride.html
+END
+plugin.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2404/sub-projects/generator/trunk/core/mybatis-generator-core/doc/html/configreference/plugin.html
+END
+ignoreColumn.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/2404/sub-projects/generator/trunk/core/mybatis-generator-core/doc/html/configreference/ignoreColumn.html
+END
+sqlMapGenerator.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/3535/sub-projects/generator/trunk/core/mybatis-generator-core/doc/html/configreference/sqlMapGenerator.html
+END
+classPathEntry.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/2404/sub-projects/generator/trunk/core/mybatis-generator-core/doc/html/configreference/classPathEntry.html
+END
+javaTypeResolver.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/2404/sub-projects/generator/trunk/core/mybatis-generator-core/doc/html/configreference/javaTypeResolver.html
+END
+columnRenamingRule.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/2404/sub-projects/generator/trunk/core/mybatis-generator-core/doc/html/configreference/columnRenamingRule.html
+END
+generatedKey.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/3332/sub-projects/generator/trunk/core/mybatis-generator-core/doc/html/configreference/generatedKey.html
+END
+javaModelGenerator.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/3373/sub-projects/generator/trunk/core/mybatis-generator-core/doc/html/configreference/javaModelGenerator.html
+END
+commentGenerator.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/3543/sub-projects/generator/trunk/core/mybatis-generator-core/doc/html/configreference/commentGenerator.html
+END

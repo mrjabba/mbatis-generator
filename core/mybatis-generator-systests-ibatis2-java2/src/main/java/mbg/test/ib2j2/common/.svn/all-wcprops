@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-systests-ibatis2-java2/src/main/java/mbg/test/ib2j2/common
+END
+MyTimeTypeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-systests-ibatis2-java2/src/main/java/mbg/test/ib2j2/common/MyTimeTypeHandler.java
+END
+FirstNameTypeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-systests-ibatis2-java2/src/main/java/mbg/test/ib2j2/common/FirstNameTypeHandler.java
+END

@@ -1,0 +1,80 @@
+10
+
+dir
+3829
+http://mybatis.googlecode.com/svn/sub-projects/generator/trunk/core/mybatis-generator-systests-mybatis3/src/test/java/mbg/test/mb3
+http://mybatis.googlecode.com/svn
+
+
+
+2011-04-01T21:13:58.922677Z
+3723
+jeffgbutler
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6a4a4fef-ff2a-56b0-fee9-946765563393
+
+miscellaneous
+dir
+
+conditional
+dir
+
+AbstractTest.java
+file
+
+
+
+
+2011-07-06T23:07:23.129367Z
+fb685942491d5096786196d68483a5cb
+2010-12-24T22:15:27.679553Z
+3411
+jeffgbutler
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1430
+
+mixed
+dir
+
+flat
+dir
+
+annotated
+dir
+
+hierarchical
+dir
+

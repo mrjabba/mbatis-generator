@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/3724/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/javamapper/elements
+END
+SelectByPrimaryKeyMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/!svn/ver/3410/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/javamapper/elements/SelectByPrimaryKeyMethodGenerator.java
+END
+SelectByExampleWithoutBLOBsMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/!svn/ver/3410/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/javamapper/elements/SelectByExampleWithoutBLOBsMethodGenerator.java
+END
+UpdateByExampleSelectiveMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/!svn/ver/3410/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/javamapper/elements/UpdateByExampleSelectiveMethodGenerator.java
+END
+UpdateByPrimaryKeySelectiveMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/!svn/ver/3410/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/javamapper/elements/UpdateByPrimaryKeySelectiveMethodGenerator.java
+END
+UpdateByExampleWithoutBLOBsMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/!svn/ver/3410/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/javamapper/elements/UpdateByExampleWithoutBLOBsMethodGenerator.java
+END
+CountByExampleMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/3410/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/javamapper/elements/CountByExampleMethodGenerator.java
+END
+UpdateByPrimaryKeyWithoutBLOBsMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/!svn/ver/3410/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/javamapper/elements/UpdateByPrimaryKeyWithoutBLOBsMethodGenerator.java
+END
+SelectByExampleWithBLOBsMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/!svn/ver/3410/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/javamapper/elements/SelectByExampleWithBLOBsMethodGenerator.java
+END
+InsertMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/3410/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/javamapper/elements/InsertMethodGenerator.java
+END
+UpdateByExampleWithBLOBsMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/!svn/ver/3410/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/javamapper/elements/UpdateByExampleWithBLOBsMethodGenerator.java
+END
+UpdateByPrimaryKeyWithBLOBsMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/!svn/ver/3410/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/javamapper/elements/UpdateByPrimaryKeyWithBLOBsMethodGenerator.java
+END
+InsertSelectiveMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/3410/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/javamapper/elements/InsertSelectiveMethodGenerator.java
+END
+DeleteByExampleMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/3410/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/javamapper/elements/DeleteByExampleMethodGenerator.java
+END
+AbstractJavaMapperMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/!svn/ver/3410/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/javamapper/elements/AbstractJavaMapperMethodGenerator.java
+END
+DeleteByPrimaryKeyMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/!svn/ver/3410/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/javamapper/elements/DeleteByPrimaryKeyMethodGenerator.java
+END

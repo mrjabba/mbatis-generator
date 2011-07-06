@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/3556/sub-projects/generator/trunk/eclipse/org.mybatis.generator.eclipse.ui/src/org/mybatis/generator/eclipse/ui/content
+END
+ConfigVerifyer.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/2799/sub-projects/generator/trunk/eclipse/org.mybatis.generator.eclipse.ui/src/org/mybatis/generator/eclipse/ui/content/ConfigVerifyer.java
+END
+AdapterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/3556/sub-projects/generator/trunk/eclipse/org.mybatis.generator.eclipse.ui/src/org/mybatis/generator/eclipse/ui/content/AdapterFactory.java
+END
+ConfigurationFileAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/3556/sub-projects/generator/trunk/eclipse/org.mybatis.generator.eclipse.ui/src/org/mybatis/generator/eclipse/ui/content/ConfigurationFileAdapter.java
+END

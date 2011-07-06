@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/3543/sub-projects/generator/trunk/core/mybatis-generator-systests-common/src/main/java/mbg/test/common
+END
+BaseClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-systests-common/src/main/java/mbg/test/common/BaseClass.java
+END
+MyTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-systests-common/src/main/java/mbg/test/common/MyTime.java
+END
+FirstName.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-systests-common/src/main/java/mbg/test/common/FirstName.java
+END
+BaseInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-systests-common/src/main/java/mbg/test/common/BaseInterface.java
+END

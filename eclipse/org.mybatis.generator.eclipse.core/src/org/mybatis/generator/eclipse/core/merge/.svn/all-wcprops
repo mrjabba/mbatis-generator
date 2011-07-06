@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/3556/sub-projects/generator/trunk/eclipse/org.mybatis.generator.eclipse.core/src/org/mybatis/generator/eclipse/core/merge
+END
+JavaFileMerger.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/3556/sub-projects/generator/trunk/eclipse/org.mybatis.generator.eclipse.core/src/org/mybatis/generator/eclipse/core/merge/JavaFileMerger.java
+END
+NewJavaFileVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/2797/sub-projects/generator/trunk/eclipse/org.mybatis.generator.eclipse.core/src/org/mybatis/generator/eclipse/core/merge/NewJavaFileVisitor.java
+END
+ExistingJavaFileVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/3556/sub-projects/generator/trunk/eclipse/org.mybatis.generator.eclipse.core/src/org/mybatis/generator/eclipse/core/merge/ExistingJavaFileVisitor.java
+END

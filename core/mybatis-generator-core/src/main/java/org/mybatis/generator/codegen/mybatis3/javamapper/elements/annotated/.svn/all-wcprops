@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/3594/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/javamapper/elements/annotated
+END
+AnnotatedDeleteByExampleMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/svn/!svn/ver/3410/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/javamapper/elements/annotated/AnnotatedDeleteByExampleMethodGenerator.java
+END
+AnnotatedDeleteByPrimaryKeyMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/svn/!svn/ver/3410/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/javamapper/elements/annotated/AnnotatedDeleteByPrimaryKeyMethodGenerator.java
+END
+AnnotatedSelectByExampleWithoutBLOBsMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 215
+/svn/!svn/ver/3410/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/javamapper/elements/annotated/AnnotatedSelectByExampleWithoutBLOBsMethodGenerator.java
+END
+AnnotatedUpdateByExampleSelectiveMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 212
+/svn/!svn/ver/3410/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/javamapper/elements/annotated/AnnotatedUpdateByExampleSelectiveMethodGenerator.java
+END
+AnnotatedUpdateByPrimaryKeySelectiveMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 215
+/svn/!svn/ver/3410/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/javamapper/elements/annotated/AnnotatedUpdateByPrimaryKeySelectiveMethodGenerator.java
+END
+AnnotatedUpdateByExampleWithoutBLOBsMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 215
+/svn/!svn/ver/3410/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/javamapper/elements/annotated/AnnotatedUpdateByExampleWithoutBLOBsMethodGenerator.java
+END
+AnnotatedCountByExampleMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/svn/!svn/ver/3410/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/javamapper/elements/annotated/AnnotatedCountByExampleMethodGenerator.java
+END
+AnnotatedUpdateByPrimaryKeyWithoutBLOBsMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 218
+/svn/!svn/ver/3410/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/javamapper/elements/annotated/AnnotatedUpdateByPrimaryKeyWithoutBLOBsMethodGenerator.java
+END
+AnnotatedInsertMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/!svn/ver/3410/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/javamapper/elements/annotated/AnnotatedInsertMethodGenerator.java
+END
+AnnotatedSelectByExampleWithBLOBsMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 212
+/svn/!svn/ver/3410/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/javamapper/elements/annotated/AnnotatedSelectByExampleWithBLOBsMethodGenerator.java
+END
+AnnotatedUpdateByExampleWithBLOBsMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 212
+/svn/!svn/ver/3410/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/javamapper/elements/annotated/AnnotatedUpdateByExampleWithBLOBsMethodGenerator.java
+END
+AnnotatedSelectByPrimaryKeyMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/svn/!svn/ver/3594/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/javamapper/elements/annotated/AnnotatedSelectByPrimaryKeyMethodGenerator.java
+END
+AnnotatedInsertSelectiveMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/svn/!svn/ver/3410/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/javamapper/elements/annotated/AnnotatedInsertSelectiveMethodGenerator.java
+END
+AnnotatedUpdateByPrimaryKeyWithBLOBsMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 215
+/svn/!svn/ver/3410/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/javamapper/elements/annotated/AnnotatedUpdateByPrimaryKeyWithBLOBsMethodGenerator.java
+END

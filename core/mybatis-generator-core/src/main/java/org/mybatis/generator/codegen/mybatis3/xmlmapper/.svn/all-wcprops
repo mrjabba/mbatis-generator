@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/3543/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/xmlmapper
+END
+MixedMapperGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/3543/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/xmlmapper/MixedMapperGenerator.java
+END
+XMLMapperGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/3374/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/xmlmapper/XMLMapperGenerator.java
+END

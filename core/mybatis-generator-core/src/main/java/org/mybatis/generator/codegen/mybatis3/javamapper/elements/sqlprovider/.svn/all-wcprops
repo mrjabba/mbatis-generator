@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/3724/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/javamapper/elements/sqlprovider
+END
+ProviderSelectByExampleWithoutBLOBsMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/!svn/ver/3460/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/javamapper/elements/sqlprovider/ProviderSelectByExampleWithoutBLOBsMethodGenerator.java
+END
+ProviderUpdateByExampleSelectiveMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/svn/!svn/ver/3460/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/javamapper/elements/sqlprovider/ProviderUpdateByExampleSelectiveMethodGenerator.java
+END
+ProviderUpdateByPrimaryKeySelectiveMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/!svn/ver/3543/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/javamapper/elements/sqlprovider/ProviderUpdateByPrimaryKeySelectiveMethodGenerator.java
+END
+ProviderUpdateByExampleWithoutBLOBsMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/!svn/ver/3543/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/javamapper/elements/sqlprovider/ProviderUpdateByExampleWithoutBLOBsMethodGenerator.java
+END
+ProviderCountByExampleMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/svn/!svn/ver/3724/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/javamapper/elements/sqlprovider/ProviderCountByExampleMethodGenerator.java
+END
+ProviderApplyWhereMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/!svn/ver/3460/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/javamapper/elements/sqlprovider/ProviderApplyWhereMethodGenerator.java
+END
+ProviderSelectByExampleWithBLOBsMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/svn/!svn/ver/3460/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/javamapper/elements/sqlprovider/ProviderSelectByExampleWithBLOBsMethodGenerator.java
+END
+AbstractJavaProviderMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/svn/!svn/ver/3410/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/javamapper/elements/sqlprovider/AbstractJavaProviderMethodGenerator.java
+END
+ProviderUpdateByExampleWithBLOBsMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/svn/!svn/ver/3460/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/javamapper/elements/sqlprovider/ProviderUpdateByExampleWithBLOBsMethodGenerator.java
+END
+ProviderInsertSelectiveMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/svn/!svn/ver/3460/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/javamapper/elements/sqlprovider/ProviderInsertSelectiveMethodGenerator.java
+END
+ProviderDeleteByExampleMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/svn/!svn/ver/3460/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/javamapper/elements/sqlprovider/ProviderDeleteByExampleMethodGenerator.java
+END

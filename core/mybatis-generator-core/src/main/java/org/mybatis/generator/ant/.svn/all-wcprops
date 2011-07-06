@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/3374/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/ant
+END
+AntProgressCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/ant/AntProgressCallback.java
+END
+GeneratorAntTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/3374/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/ant/GeneratorAntTask.java
+END

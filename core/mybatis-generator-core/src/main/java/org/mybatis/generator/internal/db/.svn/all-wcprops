@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/3410/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/internal/db
+END
+DatabaseIntrospector.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/3410/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/internal/db/DatabaseIntrospector.java
+END
+ActualTableName.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/3374/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/internal/db/ActualTableName.java
+END
+ConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/3374/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/internal/db/ConnectionFactory.java
+END
+DatabaseDialects.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/internal/db/DatabaseDialects.java
+END
+SqlReservedWords.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/internal/db/SqlReservedWords.java
+END

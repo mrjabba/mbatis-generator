@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/internal/rules
+END
+ConditionalModelRules.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/internal/rules/ConditionalModelRules.java
+END
+FlatModelRules.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/internal/rules/FlatModelRules.java
+END
+RulesDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/internal/rules/RulesDelegate.java
+END
+BaseRules.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/internal/rules/BaseRules.java
+END
+HierarchicalModelRules.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/internal/rules/HierarchicalModelRules.java
+END
+Rules.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/internal/rules/Rules.java
+END

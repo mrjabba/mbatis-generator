@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/3651/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/api/dom/java
+END
+Parameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/api/dom/java/Parameter.java
+END
+Interface.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/3460/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/api/dom/java/Interface.java
+END
+Method.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/3383/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/api/dom/java/Method.java
+END
+InnerEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/api/dom/java/InnerEnum.java
+END
+TopLevelClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/3460/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/api/dom/java/TopLevelClass.java
+END
+TopLevelEnumeration.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/3460/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/api/dom/java/TopLevelEnumeration.java
+END
+InnerClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/3383/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/api/dom/java/InnerClass.java
+END
+InitializationBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/3384/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/api/dom/java/InitializationBlock.java
+END
+FullyQualifiedJavaType.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/3651/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/api/dom/java/FullyQualifiedJavaType.java
+END
+Field.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/3383/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/api/dom/java/Field.java
+END
+JavaVisibility.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/api/dom/java/JavaVisibility.java
+END
+PrimitiveTypeWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/api/dom/java/PrimitiveTypeWrapper.java
+END
+JavaElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/3383/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/api/dom/java/JavaElement.java
+END
+CompilationUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/3410/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/api/dom/java/CompilationUnit.java
+END

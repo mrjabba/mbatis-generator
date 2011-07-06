@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/3557/sub-projects/generator/trunk/eclipse/org.mybatis.generator.eclipse.ui/src/org/mybatis/generator/eclipse/ui
+END
+MyBatisGeneratorClasspathResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/3556/sub-projects/generator/trunk/eclipse/org.mybatis.generator.eclipse.ui/src/org/mybatis/generator/eclipse/ui/MyBatisGeneratorClasspathResolver.java
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/2799/sub-projects/generator/trunk/eclipse/org.mybatis.generator.eclipse.ui/src/org/mybatis/generator/eclipse/ui/Activator.java
+END

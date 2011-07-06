@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/3374/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/plugins
+END
+CaseInsensitiveLikePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/plugins/CaseInsensitiveLikePlugin.java
+END
+SqlMapConfigPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/3374/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/plugins/SqlMapConfigPlugin.java
+END
+SerializablePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/plugins/SerializablePlugin.java
+END
+RenameExampleClassPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/3374/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/plugins/RenameExampleClassPlugin.java
+END
+EqualsHashCodePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/3374/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/plugins/EqualsHashCodePlugin.java
+END
+MapperConfigPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/3374/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/plugins/MapperConfigPlugin.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/3543/sub-projects/generator/trunk/core/mybatis-generator-systests-mybatis3/src/test/java/mbg/test/mb3/mixed/conditional
+END
+UpdateByExampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/3543/sub-projects/generator/trunk/core/mybatis-generator-systests-mybatis3/src/test/java/mbg/test/mb3/mixed/conditional/UpdateByExampleTest.java
+END
+ConditionalJava5Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/3543/sub-projects/generator/trunk/core/mybatis-generator-systests-mybatis3/src/test/java/mbg/test/mb3/mixed/conditional/ConditionalJava5Test.java
+END
+AbstractMixedConditionalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/3543/sub-projects/generator/trunk/core/mybatis-generator-systests-mybatis3/src/test/java/mbg/test/mb3/mixed/conditional/AbstractMixedConditionalTest.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-systests-mybatis3/src/main/java/mbg/test/mb3/common
+END
+MyTimeTypeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-systests-mybatis3/src/main/java/mbg/test/mb3/common/MyTimeTypeHandler.java
+END
+TestEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-systests-mybatis3/src/main/java/mbg/test/mb3/common/TestEnum.java
+END
+FirstNameTypeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-systests-mybatis3/src/main/java/mbg/test/mb3/common/FirstNameTypeHandler.java
+END

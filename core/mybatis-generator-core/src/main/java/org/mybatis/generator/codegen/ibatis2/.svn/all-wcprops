@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/3543/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/ibatis2
+END
+IntrospectedTableIbatis2Java2Impl.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/3535/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/ibatis2/IntrospectedTableIbatis2Java2Impl.java
+END
+IntrospectedTableIbatis2Java5Impl.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/ibatis2/IntrospectedTableIbatis2Java5Impl.java
+END
+Ibatis2FormattingUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/3374/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/ibatis2/Ibatis2FormattingUtilities.java
+END

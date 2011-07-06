@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3557/sub-projects/generator/trunk/eclipse/org.mybatis.generator.eclipse.ui
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2799/sub-projects/generator/trunk/eclipse/org.mybatis.generator.eclipse.ui/.classpath
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2799/sub-projects/generator/trunk/eclipse/org.mybatis.generator.eclipse.ui/NOTICE
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2799/sub-projects/generator/trunk/eclipse/org.mybatis.generator.eclipse.ui/LICENSE
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2799/sub-projects/generator/trunk/eclipse/org.mybatis.generator.eclipse.ui/.project
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2799/sub-projects/generator/trunk/eclipse/org.mybatis.generator.eclipse.ui/build.properties
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3556/sub-projects/generator/trunk/eclipse/org.mybatis.generator.eclipse.ui/plugin.xml
+END

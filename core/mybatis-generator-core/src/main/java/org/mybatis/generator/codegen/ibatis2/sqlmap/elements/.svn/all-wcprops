@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/3374/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/ibatis2/sqlmap/elements
+END
+ResultMapWithoutBLOBsElementGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/!svn/ver/3374/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/ibatis2/sqlmap/elements/ResultMapWithoutBLOBsElementGenerator.java
+END
+ExampleWhereClauseElementGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/3374/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/ibatis2/sqlmap/elements/ExampleWhereClauseElementGenerator.java
+END
+BaseColumnListElementGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/ibatis2/sqlmap/elements/BaseColumnListElementGenerator.java
+END
+AbstractXmlElementGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/3374/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/ibatis2/sqlmap/elements/AbstractXmlElementGenerator.java
+END
+SelectByPrimaryKeyElementGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/3374/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/ibatis2/sqlmap/elements/SelectByPrimaryKeyElementGenerator.java
+END
+BlobColumnListElementGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/ibatis2/sqlmap/elements/BlobColumnListElementGenerator.java
+END
+ResultMapWithBLOBsElementGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/3374/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/ibatis2/sqlmap/elements/ResultMapWithBLOBsElementGenerator.java
+END
+SelectByExampleWithoutBLOBsElementGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/!svn/ver/3374/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/ibatis2/sqlmap/elements/SelectByExampleWithoutBLOBsElementGenerator.java
+END
+UpdateByExampleSelectiveElementGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/ibatis2/sqlmap/elements/UpdateByExampleSelectiveElementGenerator.java
+END
+UpdateByPrimaryKeySelectiveElementGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/ibatis2/sqlmap/elements/UpdateByPrimaryKeySelectiveElementGenerator.java
+END
+CountByExampleElementGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/ibatis2/sqlmap/elements/CountByExampleElementGenerator.java
+END
+UpdateByExampleWithoutBLOBsElementGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/ibatis2/sqlmap/elements/UpdateByExampleWithoutBLOBsElementGenerator.java
+END
+UpdateByPrimaryKeyWithoutBLOBsElementGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/ibatis2/sqlmap/elements/UpdateByPrimaryKeyWithoutBLOBsElementGenerator.java
+END
+InsertElementGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/3332/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/ibatis2/sqlmap/elements/InsertElementGenerator.java
+END
+SelectByExampleWithBLOBsElementGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/!svn/ver/3374/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/ibatis2/sqlmap/elements/SelectByExampleWithBLOBsElementGenerator.java
+END
+UpdateByExampleWithBLOBsElementGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/ibatis2/sqlmap/elements/UpdateByExampleWithBLOBsElementGenerator.java
+END
+InsertSelectiveElementGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/3332/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/ibatis2/sqlmap/elements/InsertSelectiveElementGenerator.java
+END
+UpdateByPrimaryKeyWithBLOBsElementGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/ibatis2/sqlmap/elements/UpdateByPrimaryKeyWithBLOBsElementGenerator.java
+END
+DeleteByExampleElementGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/ibatis2/sqlmap/elements/DeleteByExampleElementGenerator.java
+END
+DeleteByPrimaryKeyElementGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/ibatis2/sqlmap/elements/DeleteByPrimaryKeyElementGenerator.java
+END

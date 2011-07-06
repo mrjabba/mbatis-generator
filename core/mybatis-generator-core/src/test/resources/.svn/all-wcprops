@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3543/sub-projects/generator/trunk/core/mybatis-generator-core/src/test/resources
+END
+generatorConfigMyBatis3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/3543/sub-projects/generator/trunk/core/mybatis-generator-core/src/test/resources/generatorConfigMyBatis3.xml
+END
+generatorConfigIbatis2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/3535/sub-projects/generator/trunk/core/mybatis-generator-core/src/test/resources/generatorConfigIbatis2.xml
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-core/src/test/resources/log4j.properties
+END

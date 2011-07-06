@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/3038/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/internal/types
+END
+JdbcTypeNameTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/3038/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/internal/types/JdbcTypeNameTranslator.java
+END
+JavaTypeResolverDefaultImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/3038/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/internal/types/JavaTypeResolverDefaultImpl.java
+END

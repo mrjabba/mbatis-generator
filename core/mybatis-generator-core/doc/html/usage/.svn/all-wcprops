@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2404/sub-projects/generator/trunk/core/mybatis-generator-core/doc/html/usage
+END
+postgresql.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2404/sub-projects/generator/trunk/core/mybatis-generator-core/doc/html/usage/postgresql.html
+END
+mysql.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2404/sub-projects/generator/trunk/core/mybatis-generator-core/doc/html/usage/mysql.html
+END
+oracle.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2404/sub-projects/generator/trunk/core/mybatis-generator-core/doc/html/usage/oracle.html
+END
+db2.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2404/sub-projects/generator/trunk/core/mybatis-generator-core/doc/html/usage/db2.html
+END
+intro.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2404/sub-projects/generator/trunk/core/mybatis-generator-core/doc/html/usage/intro.html
+END

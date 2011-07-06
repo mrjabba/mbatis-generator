@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-systests-ibatis2-java2/src/test/resources/mbg/test/ib2j2/conditional
+END
+SqlMapConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-systests-ibatis2-java2/src/test/resources/mbg/test/ib2j2/conditional/SqlMapConfig.xml
+END
+SpringBeans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-systests-ibatis2-java2/src/test/resources/mbg/test/ib2j2/conditional/SpringBeans.xml
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/3374/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/config/xml
+END
+ConfigurationParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/3374/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/config/xml/ConfigurationParser.java
+END
+MyBatisGeneratorConfigurationParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/3374/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/config/xml/MyBatisGeneratorConfigurationParser.java
+END
+ParserErrorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/3374/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/config/xml/ParserErrorHandler.java
+END
+IbatorConfigurationParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/3374/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/config/xml/IbatorConfigurationParser.java
+END
+ParserEntityResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/config/xml/ParserEntityResolver.java
+END

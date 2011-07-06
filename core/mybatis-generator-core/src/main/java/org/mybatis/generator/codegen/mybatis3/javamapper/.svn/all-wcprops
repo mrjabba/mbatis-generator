@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/3724/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/javamapper
+END
+SqlProviderGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/3460/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/javamapper/SqlProviderGenerator.java
+END
+AnnotatedClientGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/3543/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/javamapper/AnnotatedClientGenerator.java
+END
+MixedClientGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/3543/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/javamapper/MixedClientGenerator.java
+END
+JavaMapperGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/3543/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/javamapper/JavaMapperGenerator.java
+END

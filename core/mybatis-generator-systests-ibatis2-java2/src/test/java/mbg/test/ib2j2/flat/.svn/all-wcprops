@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/2719/sub-projects/generator/trunk/core/mybatis-generator-systests-ibatis2-java2/src/test/java/mbg/test/ib2j2/flat
+END
+UpdateByExampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/2719/sub-projects/generator/trunk/core/mybatis-generator-systests-ibatis2-java2/src/test/java/mbg/test/ib2j2/flat/UpdateByExampleTest.java
+END
+FlatJava2Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/2719/sub-projects/generator/trunk/core/mybatis-generator-systests-ibatis2-java2/src/test/java/mbg/test/ib2j2/flat/FlatJava2Test.java
+END
+AbstractFlatJava2Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-systests-ibatis2-java2/src/test/java/mbg/test/ib2j2/flat/AbstractFlatJava2Test.java
+END

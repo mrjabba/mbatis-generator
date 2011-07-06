@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/3724/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen
+END
+RootClassInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/3374/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/RootClassInfo.java
+END
+AbstractGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/AbstractGenerator.java
+END
+AbstractXmlGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/AbstractXmlGenerator.java
+END
+AbstractJavaClientGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/3543/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/AbstractJavaClientGenerator.java
+END
+AbstractJavaGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/3607/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/AbstractJavaGenerator.java
+END
+XmlConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/XmlConstants.java
+END

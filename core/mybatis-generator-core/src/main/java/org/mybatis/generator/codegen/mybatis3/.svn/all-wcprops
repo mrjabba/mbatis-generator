@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/3724/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3
+END
+MyBatis3FormattingUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/3374/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/MyBatis3FormattingUtilities.java
+END
+IntrospectedTableMyBatis3Impl.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/3543/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/IntrospectedTableMyBatis3Impl.java
+END

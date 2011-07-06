@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/3374/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/ibatis2/dao/elements
+END
+SelectByPrimaryKeyMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/3374/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/ibatis2/dao/elements/SelectByPrimaryKeyMethodGenerator.java
+END
+SelectByExampleWithoutBLOBsMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/!svn/ver/3374/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/ibatis2/dao/elements/SelectByExampleWithoutBLOBsMethodGenerator.java
+END
+UpdateByExampleSelectiveMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/2642/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/ibatis2/dao/elements/UpdateByExampleSelectiveMethodGenerator.java
+END
+UpdateByPrimaryKeySelectiveMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/!svn/ver/2642/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/ibatis2/dao/elements/UpdateByPrimaryKeySelectiveMethodGenerator.java
+END
+UpdateByExampleWithoutBLOBsMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/!svn/ver/2642/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/ibatis2/dao/elements/UpdateByExampleWithoutBLOBsMethodGenerator.java
+END
+CountByExampleMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/2642/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/ibatis2/dao/elements/CountByExampleMethodGenerator.java
+END
+UpdateByPrimaryKeyWithoutBLOBsMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/!svn/ver/2642/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/ibatis2/dao/elements/UpdateByPrimaryKeyWithoutBLOBsMethodGenerator.java
+END
+AbstractDAOElementGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/3374/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/ibatis2/dao/elements/AbstractDAOElementGenerator.java
+END
+InsertMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/2642/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/ibatis2/dao/elements/InsertMethodGenerator.java
+END
+SelectByExampleWithBLOBsMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/2642/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/ibatis2/dao/elements/SelectByExampleWithBLOBsMethodGenerator.java
+END
+UpdateByExampleWithBLOBsMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/2642/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/ibatis2/dao/elements/UpdateByExampleWithBLOBsMethodGenerator.java
+END
+UpdateByPrimaryKeyWithBLOBsMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/!svn/ver/2642/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/ibatis2/dao/elements/UpdateByPrimaryKeyWithBLOBsMethodGenerator.java
+END
+InsertSelectiveMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/2642/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/ibatis2/dao/elements/InsertSelectiveMethodGenerator.java
+END
+DeleteByExampleMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/2642/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/ibatis2/dao/elements/DeleteByExampleMethodGenerator.java
+END
+DeleteByPrimaryKeyMethodGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/3374/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/ibatis2/dao/elements/DeleteByPrimaryKeyMethodGenerator.java
+END
+UpdateByExampleParmsInnerclassGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/ibatis2/dao/elements/UpdateByExampleParmsInnerclassGenerator.java
+END

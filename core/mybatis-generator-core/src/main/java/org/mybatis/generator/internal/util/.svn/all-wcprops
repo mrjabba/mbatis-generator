@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/3374/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/internal/util
+END
+ClassloaderUtility.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/3374/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/internal/util/ClassloaderUtility.java
+END
+EqualsUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/internal/util/EqualsUtil.java
+END
+JavaBeansUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/internal/util/JavaBeansUtil.java
+END
+StringUtility.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/internal/util/StringUtility.java
+END
+HashCodeUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/internal/util/HashCodeUtil.java
+END

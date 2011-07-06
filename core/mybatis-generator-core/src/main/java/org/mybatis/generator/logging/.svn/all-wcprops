@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/3374/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/logging
+END
+Log4jImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/logging/Log4jImpl.java
+END
+JdkLoggingImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/logging/JdkLoggingImpl.java
+END
+Log.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/logging/Log.java
+END
+LogFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/3374/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/logging/LogFactory.java
+END
+AbstractLogFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/2144/sub-projects/generator/trunk/core/mybatis-generator-core/src/main/java/org/mybatis/generator/logging/AbstractLogFactory.java
+END

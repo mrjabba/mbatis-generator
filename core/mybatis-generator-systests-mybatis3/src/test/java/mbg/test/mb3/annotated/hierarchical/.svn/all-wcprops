@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/3651/sub-projects/generator/trunk/core/mybatis-generator-systests-mybatis3/src/test/java/mbg/test/mb3/annotated/hierarchical
+END
+AbstractAnnotatedHierarchicalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/3411/sub-projects/generator/trunk/core/mybatis-generator-systests-mybatis3/src/test/java/mbg/test/mb3/annotated/hierarchical/AbstractAnnotatedHierarchicalTest.java
+END
+HierarchicalJava5Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/3543/sub-projects/generator/trunk/core/mybatis-generator-systests-mybatis3/src/test/java/mbg/test/mb3/annotated/hierarchical/HierarchicalJava5Test.java
+END
+UpdateByExampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/3411/sub-projects/generator/trunk/core/mybatis-generator-systests-mybatis3/src/test/java/mbg/test/mb3/annotated/hierarchical/UpdateByExampleTest.java
+END
